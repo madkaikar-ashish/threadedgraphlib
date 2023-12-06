@@ -1,7 +1,5 @@
 <img src="./threadedgraphlib.png" alt="ThreadedGraphLib Icon" style="width:200px; float: right"/>
 
- ![Documentation]
-
 ### Description
 ThreadedGraphLib is a Python library that implements a few important graph functions and search algorithms. This repo aims at building a solid understanding for various search methods using first principles of graph theory available for any datascience aspirant. It uses graphs build using python library [networks](https://networkx.org/) for all input data.
  
